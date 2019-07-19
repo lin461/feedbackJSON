@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "getAttributes": {
+    "adminRoleList": "",
+    "appId": "",
+    "browser": "",
+    "delegatedAdmin": false,
+    "feature": "",
+    "feedbackType": "",
+    "geoName": "",
+    "partner": "Office365",
+    "tenantId": "",
+    "locale": "en-US",
+    "sku": "",
+    "workload": ""
+  },
+  "getToken": {
+    "token": "0123456789"
+  },
+  "getSettings": {
+    "baseUrl": "",
+    "shouldLoad": true,
+    "style": ""
+  },
+  "getResources": {
+    "EmailFieldAriaLabel": "Field to type your email if you have checked the email checkbox",
+    "Feedback": "Feedback",
+    "FeedbackCalloutAriaLabel": "Click to open feedback widget",
+    "FeedbackHeaderAriaLabel": "Feedback",
+    "GiveFeedback": "Feedback",
+    "HelpImproveM365": "Help improve %BRAND_MICROSOFT_365%",
+    "RateYourExperience": "Rate your experience with the Admin Center",
+    "RatingStarAriaLabel": "star rating",
+    "TellUsWhatYouLiked": "Tell us what you liked or what we can do better. To protect your privacy, don't include personal information.",
+    "OkToContact": "It's OK to contact me about this feedback.",
+    "ValidEmailWarning": "Type a valid email address. Example: email@microsoft.com ",
+    "Privacy": "Privacy",
+    "PrivacyLink": "Link to privacy statement",
+    "Submit": "Submit",
+    "ThankYou": "Thank you",
+    "AppreciateFeedback": "We appreciate your feedback.",
+    "UseProvidedInformation": "We'll use the information you provide to improve your experience.",
+    "Close": "Close",
+    "Terrible": "Terrible",
+    "Poor": "Poor",
+    "Fair": "Fair",
+    "Good": "Good",
+    "Great": "Great"
   }
 }
