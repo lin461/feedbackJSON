@@ -11,7 +11,16 @@
     "tenantId": "",
     "locale": "en-US",
     "sku": "",
-    "workload": ""
+    "workload": "",
+    "userEmail": "test@fakeemail.com",
+    "tenantAge": 0,
+    "userAge": 0,
+    "totalLicenses": 0,
+    "cntry": "",
+    "setUser": true,
+    "modalGeneric": "",
+    "puid": "12345puid",
+    "roles": []
   },
   "getToken": {
     "token": "0123456789"
