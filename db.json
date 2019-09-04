@@ -27,8 +27,7 @@
   },
   "getSettings": {
     "baseUrl": "",
-    "shouldLoad": true,
-    "style": ""
+    "shouldLoad": false,
   },
   "getResources": {
     "EmailFieldAriaLabel": "Field to type your email if you have checked the email checkbox",
